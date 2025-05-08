@@ -75,5 +75,10 @@ type PersonKeys = keyof Person;
 // Result: "name" | "age"
 
 
+Name: A K Azad
+email: azads5390@gmail.com
+Dated: 08-05-25
 
+If you have any suggetion please inform me anytime.
 
+Save the tree. Don't waste Paper.
